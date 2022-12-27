@@ -1,5 +1,4 @@
-{
-  "lista": [
+[
     {
       "id": 0,
       "titulo": "Double Chess",
@@ -41,4 +40,3 @@
       "imgDetails":"https://media.istockphoto.com/id/175208487/pt/foto/abrir-burger.jpg?s=1024x1024&w=is&k=20&c=Qr0oCSbJrMv00OcB336e0jsB_NCRrzXbws--Xjt_Asc="
     }
   ]
-}
