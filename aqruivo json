@@ -1,12 +1,4 @@
 {
-  "users": [
-    {
-      "login": "123",
-      "email": "marcelo",
-      "avatar_url":"https://avatars.githubusercontent.com/u/79213937?v=4",
-      "id": 6
-    }
-  ],
   "lista": [
     {
       "id": 0,
